@@ -1,6 +1,3 @@
-// ===========================
-// 📄 script.js
-// ===========================
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.toggle-button').forEach(button => {
     button.addEventListener('click', () => {
