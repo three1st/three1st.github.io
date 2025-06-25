@@ -35,3 +35,13 @@ function downloadFile() {
   document.body.removeChild(link);
   URL.revokeObjectURL(url);
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  const toggleBtn = document.getElementById('menu-toggle');
+  const menuLinks = document.getElementById('menu-links');
+  if (toggleBtn && menuLinks) {
+    toggleBtn.addEventListener('click', () => {
+      menuLinks.classList.toggle('show');
+    });
+  }
+});
