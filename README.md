@@ -1,6 +1,3 @@
-// ===========================
-// 📄 README.md
-// ===========================
 # Dokumentasi Akademik
 
 Ini adalah template website statis untuk dokumentasi perkuliahan, penelitian, dan kegiatan akademik lainnya.
