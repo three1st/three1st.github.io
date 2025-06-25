@@ -19,3 +19,10 @@ Ini adalah template website statis untuk dokumentasi perkuliahan, penelitian, da
 4. Akses via: `https://username.github.io/nama-repo/`
 
 Lisensi: Bebas digunakan untuk keperluan akademik
+
+📁 dokumentasi-akademik/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+
